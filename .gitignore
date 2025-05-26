@@ -1,0 +1,100 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+/.pnp
+.pnp.js
+
+# Environment variables
+.env
+server/.env
+
+# Build outputs
+/build
+/dist
+/out
+/.next
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+/coverage
+.nyc_output
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# MongoDB
+*.mongodb
+mongodb.log
+
+# Misc
+.DS_Store
+Thumbs.db
+*.pem
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# parcel-bundler cache
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+out
+
+# Production build files
+build/
+dist/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local Netlify folder
+.netlify
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts 
+Full Stack Engineer Challenge.pdf
+free_company_dataset.json
+Company Dataset.zip
