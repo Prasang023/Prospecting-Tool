@@ -1,4 +1,4 @@
-# Company Search Application
+# Company Prospecting Tool
 
 A full-stack application for searching and managing company information with AI-powered natural language search capabilities.
 
